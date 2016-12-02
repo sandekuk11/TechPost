@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app works!';
+  title = 'TechPost';
+  techList = ['Java', '.NET', 'Hadoop', 'Hive', 'Spark', 'Sqoop', 'Flume'];
 }
